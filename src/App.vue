@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="son">
     <router-view :key="$route.fullPath" />
   </div>
 </template>
